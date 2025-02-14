@@ -63,5 +63,10 @@
         "id": 13,
         "name": "إذاعة آيات السكينة",
         "link": "https://qurango.net/radio/sakeenah"
+    },
+    {
+        "id": 14,
+        "name": "إذاعة القرآن الكريم من نابلس",
+        "link": "https://quran-radio.org:8444/;?type=http&amp;nocache=19"
     }
 ]
